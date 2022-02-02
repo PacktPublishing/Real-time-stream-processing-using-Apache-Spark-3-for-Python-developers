@@ -1,13 +1,10 @@
-# Apache Spark 3 - Real-time Stream Processing using Python
+# Real-time stream processing using Apache Spark 3 for Python developers
 This is the central repository for all the materials related to <em>Apache Spark 3 -Real-time Stream Processing using Python</em> <br>Course by Prashant Pandey.
-<br> You can get the full course at <a href="https://www.udemy.com/course/draft/3184584/?referralCode=77E18B4F800479A263D5"> 
-  Apache Spark Course @ Udemy.
+
 </a>
 
 <div>
-<a href="https://www.udemy.com/course/spark-streaming-using-python/?referralCode=127B048D9EBD2D1278DC">
-<img src="https://www.learningjournal.guru/_resources/img/jpg-5x/spark-beginners-course.jpg" alt="Apache Spark 3 - Real-time Stream Processing using Python" width="300" align="left"> 
-</a>
+
 
 <h2> Description </h2>
 <p align="justify">
