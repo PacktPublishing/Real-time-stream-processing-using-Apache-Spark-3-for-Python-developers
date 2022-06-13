@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V18245?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Real-time stream processing using Apache Spark 3 for Python developers
 This is the central repository for all the materials related to <em>Apache Spark 3 -Real-time Stream Processing using Python</em> <br>Course by Prashant Pandey.
 
